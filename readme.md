@@ -1,3 +1,5 @@
+### AGRIATRA
+
 Agriculture is the backbone of Indian Economy. Around 85 percent of the population, is directly or indirectly dependent on Agriculture and around 26 percent of India’s GDP is contributed by Agriculture. Adding additional income generating activities to existing agriculture model would certainly increase contribution of agriculture in the national GDP. 
 
 Hence, We propose a Agro-tourism based idea **Agriatra** to provide an allied financial gain generation methods with agriculture.
